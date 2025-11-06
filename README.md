@@ -7,13 +7,13 @@
 ## 🛠️ Tech Stacks
 ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white)
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)](https://www.notion.so/여기에-본인-노션-페이지-URL)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)
 
 
 ## 🔩 Devices I Use
@@ -22,39 +22,56 @@
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=plastic&logo=NVIDIA&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=plastic&logo=Raspberry%20Pi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=plastic&logo=STMicroelectronics&logoColor=white)
-**Arduino**
-- Arduino Uno
-- 사용: 센서 제어, PWM/타이머, UART/I2C/SPI 테스트
+
+**Raspberry Pi**
+- Raspberry Pi 4B  
+- 사용: Qt 기반 GUI 클라이언트, 이미지·로그 뷰어, TCP/IP 클라이언트, MySQL 연동
 
 **NVIDIA Jetson**
 - Jetson Nano
 - 사용: ONNX Runtime 추론, OpenCV 비전, YOLOv8, Tesseract OCR, TCP 소켓
 
-**Raspberry Pi**
-- Raspberry Pi 4B  
-- 사용: Qt 기반 GUI 클라이언트, 이미지·로그 뷰어, TCP/IP 클라이언트, MySQL 연동## 📦 Projects (Selected)
-
 **STM32 (STMicroelectronics)**
 - STM32 Nucleo-F103RB  
-- 사용: CubeMX+HAL/LL 기반 펌웨어, 타이머/PWM, ADC/DMA, UART/I2C/SPI, 보드 간 통신 브릿지
+- 사용: CubeIDE, HAL드라이버 사용, 타이머/PWM, 블루투스 모듈
+
+**Arduino**
+- Arduino Uno
+- 사용: 센서 제어, Bluetooth, Wifi모듈 사용
 
 ## 📦 Projects
 
 - ### 🧑‍🏫 Intel Edge AI 7기 (Team/Training)
   - **BoxBox — 스마트 물류**
+    - 기간 : 25.09.30~25.10.23
+    - 최종프로젝트 최우수상
     - 박스 테두리·스티커 검출 → 송장 OCR → 목적지 전송
     - Qt GUI(로그/DB 뷰어), TCP/IP 서버 연동
-    - 🔗 Repo: <https://github.com/________________>  <!-- 실제 링크로 교체하세요 -->
-  - **INTEL7_TEAM1 — 임베디드/IoT 실습 모음**
+    - 🔗 Repo: <https://github.com/jeong7231/intel7_final_team6>
+  - **SeeSeeTV — 가정용 현관 CCTV**
+    - 기간 : 25.09.19~25.09.25
+    - OpenCV, Qt활용 프로젝트
     - 🔗 Repo: <https://github.com/CSeongBeom/INTEL7_TEAM1>
-  - **Intel_7 — IoT/Embedded 학습 아카이브**
-    - 🔗 Repo: <https://github.com/CSeongBeom/Intel_7>
+  - **스마트글래스 - 시각장애인 생활보조장치**
+    - 기간 : 25.09.01~25.09.18
+    - AI활용 프로젝트, 팀장(PM) 담당
+    - 🔗 Repo: <https://github.com/minjuyeong/OpenCV_MINI_Project>
 
 - ### 🙋‍♂️ Personal
   - **baekjoon — 알고리즘 풀이 기록**
     - 🔗 Repo: <https://github.com/CSeongBeom/baekjoon>
   - **my-project — GitHub CLI/워크플로 실험**
     - 🔗 Repo: <https://github.com/CSeongBeom/my-project>
+
+## 🏆 Achievements & Certifications
+- 인텔 엣지 AI 소프트웨어 아카데미 **최종프로젝트 최우수상** (BoxBox, 2025-10-23)
+- 리눅스 마스터 2급 (KAIT, 2025.07)
+- 컴퓨터활용능력 2급 (상공회의소, 2019.11)
+- Opic IM1
+
+## 📫 Contact & Links
+- Email: [sh55bom@naver.com](mailto:sh55bom@naver.com)
+- Notion: https://www.notion.so/2a35d85c394a800fa2dbfc11c997652d?source=copy_link
 
 ## 🏅 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSeongBeom&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000)
