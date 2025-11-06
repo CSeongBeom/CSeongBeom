@@ -10,6 +10,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white)
 
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
@@ -18,10 +22,10 @@
 
 ## 🔩 Devices I Use
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=plastic&logo=NVIDIA&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=plastic&logo=Raspberry%20Pi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=plastic&logo=NVIDIA&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=plastic&logo=STMicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 
 **Raspberry Pi**
 - Raspberry Pi 4B  
@@ -43,17 +47,17 @@
 
 - ### 🧑‍🏫 Intel Edge AI 7기 (Team/Training)
   - **BoxBox — 스마트 물류**
-    - 기간 : 25.09.30~25.10.23
+    - 기간 : 2025-09-30 ~ 2025-10-23
     - 최종프로젝트 최우수상
     - 박스 테두리·스티커 검출 → 송장 OCR → 목적지 전송
     - Qt GUI(로그/DB 뷰어), TCP/IP 서버 연동
     - 🔗 Repo: <https://github.com/jeong7231/intel7_final_team6>
   - **SeeSeeTV — 가정용 현관 CCTV**
-    - 기간 : 25.09.19~25.09.25
+    - 기간 : 2025-09-19 ~ 2025-09-25
     - OpenCV, Qt활용 프로젝트
     - 🔗 Repo: <https://github.com/CSeongBeom/INTEL7_TEAM1>
   - **스마트글래스 - 시각장애인 생활보조장치**
-    - 기간 : 25.09.01~25.09.18
+    - 기간 : 2025-09-01 ~ 2025-09-18
     - AI활용 프로젝트, 팀장(PM) 담당
     - 🔗 Repo: <https://github.com/minjuyeong/OpenCV_MINI_Project>
 
@@ -65,8 +69,8 @@
 
 ## 🏆 Achievements & Certifications
 - 인텔 엣지 AI 소프트웨어 아카데미 **최종프로젝트 최우수상** (BoxBox, 2025-10-23)
-- 리눅스 마스터 2급 (KAIT, 2025.07)
-- 컴퓨터활용능력 2급 (상공회의소, 2019.11)
+- 리눅스 마스터 2급 (KAIT, 2025-07)
+- 컴퓨터활용능력 2급 (상공회의소, 2019-11)
 - Opic IM1
 
 ## 📫 Contact & Links
