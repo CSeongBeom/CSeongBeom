@@ -64,8 +64,7 @@
 - ### 🙋‍♂️ Personal
   - **baekjoon — 알고리즘 풀이 기록**
     - 🔗 Repo: <https://github.com/CSeongBeom/baekjoon>
-  - **my-project — GitHub CLI/워크플로 실험**
-    - 🔗 Repo: <https://github.com/CSeongBeom/my-project>
+
 
 ## 🏆 Achievements & Certifications
 - 인텔 엣지 AI 소프트웨어 아카데미 **최종프로젝트 최우수상** (BoxBox, 2025-10-23)
